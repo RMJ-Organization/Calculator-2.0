@@ -1,7 +1,7 @@
 print('Source code is online at https://github.com/RMJ-Organization/Calculator-2.0')
 
 import os
-os.system("title Calculator 2.0 by RMJ")
+os.system("title Calculator 2.0 for Windows")
 
 print('')
 print('')
