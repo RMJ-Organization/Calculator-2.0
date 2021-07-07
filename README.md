@@ -10,3 +10,7 @@ If you have the Python, the Python Compiled Version and the Python RAW version i
 Thanks for Using Calculator 2.0.
 
 <a href="https://github.com/RMJ-Organization/Calculator-2.0/releases/tag/1.0.2">Download the Production Calculator 2.0 NOW by clicking on this link!</a> 
+
+# Installation
+
+ONLY LINUX FILES ARE INCLUDED: Install Debian Package by 'sudo apt install /path/to/calculator2-stable-1.0.2.deb'. Check if it is installed by running 'calc2' and seeing if anything comes up. 
