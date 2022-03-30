@@ -168,4 +168,5 @@ def cal():
         exit()
 
 calculate() 
- 
+# 21/03/22 - This code is no longer being regularly updated by the developer
+# 31/03/22 - We Stand by Ukraine in Russia's agression
