@@ -6,7 +6,7 @@ print('')
 
 
 def calculate():
-    print('Calculator 2.0 v1.0.2')
+    print('Calculator 2.0 v1.0.3')
     print('Please do not enter two calculation types as it bugs the application')
     cd = input('What type of calculation do you want to preform today? * , / , +, -, square is all we accept: ')
     if 'square' in cd:
@@ -87,7 +87,7 @@ def calculate():
         exit()
 
 def cal():
-    print('Calculator 2.0 v1.0.2')
+    print('Calculator 2.0 v1.0.3')
     print('Please do not enter two calculation types as it bugs the application')
     cd = input('What type of calculation do you want to preform today? * , / , +, -, square is all we accept: ')
     if 'square' in cd:
