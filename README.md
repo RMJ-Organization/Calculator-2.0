@@ -13,5 +13,5 @@ Thanks for Using Calculator 2.0.
 
 # Installation
 
-Windows: Download the executable and add it to your PATH. Run it on your Command line or as a application that you can put on your computer screen. 
+Windows: Download the executable and add it to your PATH. Run it on your Command line or as a application that you can put on your computer screen. <br<br><hr><br><br>
 Linux: Install Debian Package by 'sudo apt install /path/to/calculator2-stable-1.0.2.deb'. Check if it is installed by running 'calc2' and seeing if anything comes up. 
